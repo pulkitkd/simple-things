@@ -1,0 +1,1 @@
+This is a D2Q9-Lattice-Boltzmann code which can solve simple 2D problems. As an example the transients of Couette flow have been plotted. The boundary conditions in the code are currently configured for a lid-driven cavity problem. Paraview is recommended for visualization.

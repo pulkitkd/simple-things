@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1491044197 source:e:\ms-at-jncasr\coursework\cpof\project\d2q9\d2q9 - iii\d2q9_iii\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	<cmath>
+
+1492606053 source:e:\ms-at-jncasr\coursework\cpof\project\d2q9\d2q9_iii 1d array formulation\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	<cmath>
+
+1492606054 source:d:\pulkit\documents\cpof\computational physics of fluids - codes\project\d2q9\d2q9_iii 1d array formulation\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	<cmath>
+
