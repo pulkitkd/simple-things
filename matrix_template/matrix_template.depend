@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1493274568 source:e:\ms-at-jncasr\coursework\cpof\project\matrix\matrix ii\matrix_template\main.cpp
+	<iostream>
+	<fstream>
+	"matrix.h"
+	"little_matrix.h"
+
+1493201964 e:\ms-at-jncasr\coursework\cpof\project\matrix\matrix ii\matrix_template\vector.h
+	<math.h>
+
+1493275206 e:\ms-at-jncasr\coursework\cpof\project\matrix\matrix ii\matrix_template\matrix.h
+	<stdlib.h>
+	<fstream>
+	"vector.h"
+
+1493202803 e:\ms-at-jncasr\coursework\cpof\project\matrix\matrix ii\matrix_template\little_matrix.h
+	"vector.h"
+
+1493274570 source:d:\pulkit\documents\cpof\computational physics of fluids - codes\project\matrix\matrix ii\matrix_template\main.cpp
+	<iostream>
+	<fstream>
+	"matrix.h"
+	"little_matrix.h"
+
+1493275208 d:\pulkit\documents\cpof\computational physics of fluids - codes\project\matrix\matrix ii\matrix_template\matrix.h
+	<stdlib.h>
+	<fstream>
+	"vector.h"
+
+1493201966 d:\pulkit\documents\cpof\computational physics of fluids - codes\project\matrix\matrix ii\matrix_template\vector.h
+	<math.h>
+
+1493202804 d:\pulkit\documents\cpof\computational physics of fluids - codes\project\matrix\matrix ii\matrix_template\little_matrix.h
+	"vector.h"
+
