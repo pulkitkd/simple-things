@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1492784054 source:e:\ms-at-jncasr\coursework\cpof\project\4x4 solver\4x4_solver\main.cpp
+	<iostream>
+	"matrix.h"
+	<time.h>
+	<stdlib.h>
+
+1492782674 
+
+1492609038 e:\ms-at-jncasr\coursework\cpof\project\4x4 solver\4x4_solver\matrix.h
+
+1492782674 source:f:\4x4_solver\main.cpp
+	<iostream>
+	"matrix.h"
+	<time.h>
+	<stdlib.h>
+
+1492609038 f:\4x4_solver\matrix.h
+
+1492784056 source:/home/pulkit/Documents/CPOF/Computational Physics of Fluids - codes/project/4X4 solver/4X4_solver/main.cpp
+	<iostream>
+	"matrix.h"
+	<time.h>
+	<stdlib.h>
+
+1492609038 /home/pulkit/Documents/CPOF/Computational Physics of Fluids - codes/project/4X4 solver/4X4_solver/matrix.h
+
+1492784056 source:d:\pulkit\documents\cpof\computational physics of fluids - codes\project\4x4 solver\4x4_solver\main.cpp
+	<iostream>
+	"matrix.h"
+	<time.h>
+	<stdlib.h>
+
+1492609038 d:\pulkit\documents\cpof\computational physics of fluids - codes\project\4x4 solver\4x4_solver\matrix.h
+
