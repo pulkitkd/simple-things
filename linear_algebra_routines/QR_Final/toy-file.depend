@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480755658 source:c:\users\pulkitparimal\desktop\tifr\codes\codes\toy-file\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1481015241 source:c:\users\pulkitparimal\desktop\tifr\codes\codes\qr_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
