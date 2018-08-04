@@ -1,0 +1,10 @@
+set terminal gif
+set xlabel 'x'
+set ylabel 'y'
+set xran[0:30]
+set yran[0:30]
+files = system("ls -1 -v *.txt")
+#labels = system("ls -1 -v *.txt | sed -e 's/.sol//'")
+do for [i=1:words(files)-1] { plot sprintf('position_%d.txt', i) u 1:2 w p pt 6; pause 0.01 }
+
+#title word(labels,i) w l lw 1, sprintf('%d.avg', i) u 1:2 title 'AVG'

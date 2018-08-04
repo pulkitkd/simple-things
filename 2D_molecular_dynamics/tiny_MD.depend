@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1493877194 source:e:\ms-at-jncasr\coursework\cpof\project\molecular dynamics\tiny_md\tiny_md\main.cpp
+	<iostream>
+	"matrix.h"
+	<fstream>
+	<time.h>
+	<math.h>
+	<conio.h>
+
+1493636293 e:\ms-at-jncasr\coursework\cpof\project\molecular dynamics\tiny_md\tiny_md\matrix.h
+	<stdlib.h>
+
+1493873712 source:e:\ms-at-jncasr\coursework\cpof\project\molecular dynamics\tiny_md\tiny_md\previously_used_snippets.c
+

@@ -1,0 +1,16 @@
+#gnuplot script to plot multiple data files
+
+set term png
+set xrange[0:20]
+set yrange[0:20]
+
+#set style fill solid 1.0 border 0
+#lc rgb '#0060ad'
+#set style line 1 lt 1 lw 2 pt 7
+set palette defined (0 'dark-blue', 1 'cyan')
+set title "2D Molecular Dynamics"
+do for [t=0:2000] {
+    outfile = sprintf('images/position%03.0f.png',t)
+    set output outfile
+    plot 'position_'.t.'.txt' using 1:2:3 with points pt 7 lw 3 palette 
+}

@@ -1,0 +1,18 @@
+#gnuplot script to plot multiple data files
+
+set term png
+set xrange[0:100]
+set yrange[0:100]
+set zrange[0:100]
+
+#set style fill solid 1.0 border 0
+#lc rgb '#0060ad'
+#set style line 1 lt 1 lw 2 pt 7
+#splot 'position_'.t.'.txt' using 1:2:3 with points palette pointsize 3 pointtype 7
+set palette defined (0 'dark-blue', 1 'cyan')
+set title "freely moving particles"
+do for [t=0:2000] {
+    outfile = sprintf('image3d/position%03.0f.png',t)
+    set output outfile
+    splot 'position_'.t.'.txt' using 1:2:3 with points palette pointsize 2 pointtype 7
+}
