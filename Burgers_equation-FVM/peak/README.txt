@@ -1,0 +1,1 @@
+The code can easily be altered to put each time step solution in a different file (just uncomment the relevant part). Then use gnuplot to plot each time step solution to see the evolution of the initial condition as it leads upto the shock solution.

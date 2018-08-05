@@ -1,0 +1,5 @@
+#!/bin/bash
+# My first script
+
+gnuplot plot-peak.gnu
+ps2pdf burgers-peak.ps burgers-peak.pdf

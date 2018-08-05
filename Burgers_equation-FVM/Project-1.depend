@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461478833 source:/home/pulkit/Documents/codes/burgersFVM/Code-blocks/burgers-equation-fvm/source-code-files/main.c
+	<stdio.h>
+	<math.h>
+	<linux/limits.h>
+
