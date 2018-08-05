@@ -1,0 +1,5 @@
+# gnuplot script file
+
+set terminal png
+set output 'myfigure.png'
+plot 'solution_100.txt' using 2:3 with lines

@@ -1,0 +1,11 @@
+#gnuplot script to plot multiple data files
+
+set term png
+set xrange[0:1]
+set yrange[-1:1]
+set title "temperature evolution"
+do for [t=0:4000] {
+    outfile = sprintf('images/solution%03.0f.png',t)
+    set output outfile
+    plot 'solution_'.t.'.txt' using 2:3 with lines
+}

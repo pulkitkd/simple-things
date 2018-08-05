@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1492363288 source:e:\ms-at-jncasr\coursework\cpof\tutorials\tutorial 3\problem 7\crank-nicholson-heat-equation\main.cpp
+	<iostream>
+	<conio.h>
+	<cmath>
+	<fstream>
+
+1492335857 source:e:\ms-at-jncasr\coursework\cpof\tutorials\tutorial 3\problem 7\crank-nicholson-heat-equation\steady_state_code.c
+
+1492364584 source:d:\ms-at-jncasr\coursework\cpof\simple_codes\crank-nicholson-heat-equation\main.cpp
+	<iostream>
+	<conio.h>
+	<cmath>
+	<fstream>
+

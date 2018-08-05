@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491718100 source:e:\ms-at-jncasr\coursework\cpof\tutorials\tutorial 1\codes\final codes\problem-5\diffusion_equation\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<conio.h>
+
