@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1494327289 source:e:\ms-at-jncasr\coursework\cpof\project\bspline\bspline\main.cpp
+	<iostream>
+	<fstream>
+	"complex_class.h"
+
+1494251158 e:\ms-at-jncasr\coursework\cpof\project\bspline\bspline\complex_class.h
+	<math.h>
+
