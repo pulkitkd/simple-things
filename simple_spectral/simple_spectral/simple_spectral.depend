@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1494295385 source:e:\ms-at-jncasr\coursework\cpof\project\spectral methods\code\simple_spectral\simple_spectral\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	"square_matrix.h"
+
+1494237076 e:\ms-at-jncasr\coursework\cpof\project\spectral methods\code\simple_spectral\simple_spectral\square_matrix.h
+	"vector.h"
+	"complex_class.h"
+	<stdlib.h>
+
+1494155779 e:\ms-at-jncasr\coursework\cpof\project\spectral methods\code\simple_spectral\simple_spectral\vector.h
+	<math.h>
+	<stdlib.h>
+
+1494251158 e:\ms-at-jncasr\coursework\cpof\project\spectral methods\code\simple_spectral\simple_spectral\complex_class.h
+	<math.h>
+
