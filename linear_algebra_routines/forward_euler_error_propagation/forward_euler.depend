@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491585066 source:e:\ms-at-jncasr\coursework\cpof\project\simple harmonic oscillator\forward_euler\forward_euler\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+
+1533460556 source:d:\ms-at-jncasr\coursework\cpof\project\simple harmonic oscillator\forward_euler\forward_euler\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+
